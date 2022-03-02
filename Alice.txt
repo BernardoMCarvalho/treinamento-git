@@ -2,3 +2,4 @@ Oi! Eu sou Aliça. Sou um arquivo que alguém adicionou neste repositório há u
 Esse é meu novo texto
 Texto Novo de Alice complementar.
 Alice foi ao marceneiro.
+texto diferente
